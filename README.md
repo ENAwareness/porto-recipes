@@ -1,1 +1,1 @@
-This is a portfolio of a recipes making by HTML. 
+This is a portfolio of a recipes for practice
